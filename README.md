@@ -1,2 +1,1 @@
-# Mi-primer-comit
-aprendizajemodulo 2 
+Este proyecto es mi prueba de clonarlo y pegarlo en github
